@@ -9,3 +9,8 @@ h2 {
 h3 {
   color: green;
 }
+
+.card {
+  color: yellow;
+  background-color: black;
+}
